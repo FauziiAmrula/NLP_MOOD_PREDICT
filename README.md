@@ -1,3 +1,5 @@
+https://colab.research.google.com/drive/1yjWmbw0l1yRKfOeCLb2ew4cxHkmhBJzC?usp=sharing
+
 # Deteksi Emosi Pengguna dari Teks Bahasa Indonesia menggunakan IndoBERT
 
 ## 📚 Deskripsi Proyek
